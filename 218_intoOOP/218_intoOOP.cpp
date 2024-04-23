@@ -61,6 +61,18 @@ int main() {
 
 //oop2
 
+#include <iostream>
+using namespace std;
+
+class bangunDatar {
+
+    //akses modifier
+    private:
+        float panjang, Lebar;
+    public:
+        float Luas;
+};
+
 
 int main()
 {
