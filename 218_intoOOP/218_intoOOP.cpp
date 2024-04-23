@@ -93,7 +93,7 @@ class bangunDatar {
 };
 
 int main() {
-
+    bangunDatar pp; // deklarasi onjek dari bangun datar
 }
 
 
